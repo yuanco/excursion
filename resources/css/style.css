@@ -24,13 +24,13 @@ img {
   padding: 12px;
 }
 
-p.copyright {
+.copr {
   font-size: 20px;
   color: Gray;
   text-align: Right;
 }
 
-a.dl {
+.dl {
   font-size: 16px;
   color: Aquamarine;
 }
