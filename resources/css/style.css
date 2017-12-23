@@ -1,5 +1,5 @@
-html {
-  font-family: Verdana, Helvetica;
+body {
+  font-family: Verdana, Helvetica, sans-serif;
   text-align: center;
   color: white;
   background-color: black;
@@ -24,12 +24,14 @@ img {
   padding: 12px;
 }
 
+/* Copyright style */
 .copr {
   font-size: 20px;
   color: Gray;
   text-align: Right;
 }
 
+/* Download link style */
 .dl {
   font-size: 16px;
   color: Aquamarine;
